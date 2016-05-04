@@ -1,7 +1,8 @@
 # Data Journalism Final Project
 ## Introduction
 
-Surrounded by mountains, Rutland is one of the largest cities of the state of Vermont. It is a short drive from Killington Mountain Resort and the Green Mountain National forest. In addition, Rutland has trails for both hiking and mountain biking less than 15 minutes from downtown. This would appear to be the perfect scenario to practice and enjoy all kinds of action sports, and for some, it is. But with almost 20% of households in Rutland having an income of between 10,000$ and 20,000$, this isn't true for everyone. Many of Rutland's residents don't make enough money to be able to utilize the opportunities for recreation in their own county.
+Surrounded by mountains, Rutland is one of the largest cities of the state of Vermont. It is a short drive from Killington Mountain Resort and the Green Mountain National forest. In addition, Rutland has trails for both hiking and mountain biking less than 15 minutes from downtown. This would appear to be the perfect scenario to practice and enjoy all kinds of action sports, and for some, it is. But a large number of Rutlands residents are unable to participate in the activities existing right outside their backdoors. 
+
 
 ## Sources
 
