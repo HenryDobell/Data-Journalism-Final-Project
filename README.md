@@ -4,7 +4,7 @@
 
 1. http://www.city-data.com/income/income-Rutland-Vermont.html
   * A map showing the median average income of Rutland, VT between the years 2000 - 2013. 
-2. Prices for gear
+2. Prices for gear (See "Moneys and Sprots"
   * We obtained prices for the gear that is essential to the activities covered by looking on a variety of online gear sites. This was aimed at begginers who are not looking to spend more than they have to. However, we chose to only include the prices of brand new gear with reputable name-brands behind them (the brands are shown in parenthesis). 
-  * [click here for data](Data-Journalism-Final-Project/Moneys and Sports.csv)
+  * 
   
