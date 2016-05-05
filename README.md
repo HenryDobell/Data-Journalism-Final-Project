@@ -4,7 +4,7 @@
 Surrounded by mountains, Rutland is one of the largest cities of the state of Vermont. It is a short drive from Killington Mountain Resort and the Green Mountain National forest. In addition, Rutland has trails for both hiking and mountain biking less than 15 minutes from downtown. This would appear to be the perfect scenario to practice and enjoy all kinds of action sports, and for some, it is. But a large number of Rutlands residents are unable to participate in the activities existing right outside their backdoors. 
 
 ## Rutland By The Numbers
-Almost 20% of Rutland has a median household income of between 10 and 20 thousand dollars a year. In addition 14% of Rutland makes between 20 and 30 thousand dollars a year. With the average cost of living in Vermont being 35 thousand dollars a year, this leaves a huge portion of Rutlands population struggling to make ends meet.
+Almost 20% of Rutland has a median household income of between 10 and 20 thousand dollars a year. In addition 14% of Rutland makes between 20 and 30 thousand dollars a year. With the average cost of living in Vermont being 35 thousand dollars a year, this leaves a huge portion of Rutland's population struggling to make ends meet.
 
 ## Sources
 
