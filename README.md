@@ -1,5 +1,5 @@
 # Data Journalism Final Project
-## Introduction
+## Nutgraf
 
 Surrounded by mountains, Rutland is one of the largest cities of the state of Vermont. It is a short drive from Killington Mountain Resort and the Green Mountain National forest. In addition, Rutland has trails for both hiking and mountain biking less than 15 minutes from downtown. This would appear to be the perfect scenario to practice and enjoy all kinds of action sports, and for some, it is. But a large number of Rutland's residents are unable to participate in the activities existing right outside their backdoors. 
 
